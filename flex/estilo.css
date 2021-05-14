@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+header{
+    background-color: blue;
+    height: 120px;
+    
+}
+.container_heder{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   /* background-color: chartreuse;*/
+    height: 100%;
+}
+
+.container{
+
+    width: 1200px;
+    margin: 0px auto ;
+}
+
+.logo{
+    background-color: brown;
+    width: 200px;
+    height: 70px;
+}
+
+input{
+    width: 400px;
+    height: 40px;
+}
+
+.info_usuario{
+    background-color: burlywood;
+    width: 300px;
+    height: 50px;
+}
+main{
+    background-color: darkgray;
+}
+
+.container_main{
+    /* background-color: rgb(185, 148, 185); */
+    padding-top: 25px;
+    
+}
+h1{
+    margin-bottom: 25px ; 
+}
+.linha_card{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.card{
+    background-color: darkmagenta;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+}

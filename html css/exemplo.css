@@ -1,0 +1,34 @@
+
+
+
+            *{
+                margin: 0;
+                padding: 0;
+                box-sizing: 0;
+            }
+            .imagem{
+                height: 50px;
+                width: 200px;
+            }
+
+            h1{
+                color: brown;
+                }
+
+            main{
+                background-color: chartreuse;
+                width: 100%;
+                height: 100%;
+                }
+            .campo{
+            background-color:grey;
+            border-radius: 4px;
+            height: 30px;
+            }
+footer{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+    
+            
